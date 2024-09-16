@@ -26,5 +26,4 @@ De knop *endButton* sluit de toepassing.
 
 ![Afbeelding met tekst, elektronica, schermopname, scherm Automatisch
 gegenereerde
-beschrijving](./media/image1.png){width="6.105018591426072in"
-height="2.68787510936133in"}
+beschrijving](./media/image1.png)
